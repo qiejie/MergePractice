@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;/*顏色*/
+    background-color: rgb(255, 209, 209);
+    font-family: "Segoe UI","微軟正黑體",sans-serif;
+}
+
+table
+{
+    width:60%;
+    margin:auto;
+    font-size: 1.5em;
+    border: 5px double rgb(201, 141, 193);/*標格邊框線的粗度 顏色*/
+}
+
+td
+{
+    border-top: 1px dashed rgb(255, 161, 66);
+    border-bottom: 1px solid rgb(201, 141, 193));
+}
+
+th
+{
+    border: 2px solid rgb(217, 175, 213);/*小標的框框*/
+}
+

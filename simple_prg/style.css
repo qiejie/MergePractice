@@ -1,0 +1,20 @@
+body
+{
+    text-align: center;
+    font-family: "Segoe UI","微軟正黑體",sans-serif;
+    background-color: rgb(255, 209, 209);
+}
+
+canvas
+{
+    border:2px solid black;
+    background-image: url(images/grasses68.gif);
+}
+
+#talkbox
+{
+    height: 20px;
+    color: brown;
+    font-size: 26px;
+    font-weight: bold;
+}

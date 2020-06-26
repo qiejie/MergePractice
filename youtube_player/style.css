@@ -1,0 +1,11 @@
+/*網頁樣式檔*/
+body{
+    text-align: center;
+    font-family: "Segoe UI","微軟正黑體",sans-serif;
+    background-color: rgb(255, 209, 209);
+}
+
+h2{
+    /*預留歌曲名稱的顯示空間*/
+    height: 32px;
+}

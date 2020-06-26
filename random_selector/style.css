@@ -1,0 +1,12 @@
+body
+{
+
+    text-align: center;
+    background-color: rgb(255, 209, 209);
+    font-family: "Segoe UI","微軟正黑體",sans-serif;
+}
+li
+{
+    text-align: left;
+    color:rgb(184, 111, 111);
+}
